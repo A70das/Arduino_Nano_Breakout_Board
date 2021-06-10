@@ -1,6 +1,8 @@
 # Objective
-* It is designed for used a smd component.
-* 
+* It is designed in a very compact manner.
+* It have on board edge connector because it is solderd in another PCB.
+* It shouldn't have any USB to UART interface module.
+
 
 
 # Schematic Diagram
