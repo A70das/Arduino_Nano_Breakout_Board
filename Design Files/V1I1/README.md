@@ -22,5 +22,10 @@
 ![2 layer pcb stack-up](https://user-images.githubusercontent.com/40338644/119019217-96345600-b9ba-11eb-8523-671bedafb4c1.png)
 
 
-# Bill of Material 
+# Bill of Materials
+| Sl No      | Designator | Mfg. No.     |   Package   |   Quantity   |
+|    :---------------:   |    :---------------:   |    :---------------:   |    :---------------:   |    :---------------:   |
+| 1      | Title       | Here's this   | Here's this   | Here's this   |
+| 2   | Text        | And more      | Here's this   | Here's this   |
+
 
